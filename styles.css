@@ -1,0 +1,16 @@
+
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header,
+.hero {
+    border: 2px solid red;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
